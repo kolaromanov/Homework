@@ -1,0 +1,5 @@
+C:\Users\КОЛЯ\Documents\Visual Studio 2008\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\КОЛЯ\Documents\Visual Studio 2008\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\КОЛЯ\Documents\Visual Studio 2008\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\КОЛЯ\Documents\Visual Studio 2008\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\КОЛЯ\Documents\Visual Studio 2008\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
